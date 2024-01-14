@@ -1,4 +1,5 @@
 IRIS Course Reg With Video Tutorials
+
 https://github.com/Dilip-code584/IRIS/assets/128896508/06069e23-ef3e-4916-8862-4a6dffaaf07d
 
 Salient Features Of This Include-
@@ -18,4 +19,14 @@ the main features of this website are :
 ✔ responsive login form
 ✔ responsive update form
 ✔ responsive register form
+
+Bugs-None to Be Known as of now
+
+References- 
+**Programming:**
+- PHP 7.4, HTML5, CSS3, JavaScript (ES6)
+
+**Tools:**
+- Visual Studio Code, Git
+
 
