@@ -4,21 +4,21 @@ https://github.com/Dilip-code584/IRIS/assets/128896508/06069e23-ef3e-4916-8862-4
 
 Salient Features Of This Include-
 the main features of this website are :
-✔  theme toggler using javascript localstorage
-✔ responsive side bar
-✔ responsive navbar with search box
-✔ responsive quick view using css grid
-✔ responsive about using css grid
-✔ responsive reviews using css grid
-✔ responsive courses using css grid
-✔ responsive playlist using css grid
-✔ responsive watch videos and comments using css grid
-✔ responsive contact using css grid
-✔ responsive user profile
-✔ responsive tutor / teacher profile
-✔ responsive login form
-✔ responsive update form
-✔ responsive register form
+a)  theme toggler using javascript localstorage
+b) responsive side bar
+c) responsive navbar with search box
+d) responsive quick view using css grid
+e) responsive about using css grid
+f) responsive reviews using css grid
+g) responsive courses using css grid
+h) responsive playlist using css grid
+i) responsive watch videos and comments using css grid
+j) responsive contact using css grid
+k) responsive user profile
+l) responsive tutor / teacher profile
+m) responsive login form
+n) responsive update form
+n) responsive register form
 
 Bugs-None to Be Known as of now
 
